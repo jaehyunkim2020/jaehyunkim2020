@@ -12,7 +12,7 @@ Throughout my life, I've dipped my toes in a variety of fields including
 * HR
 * Web Development
 
-And now I am the COO & Co-Founder of Subitt where I manage the day-to-day operation and make sure our customers are getting the full experience. But, I still code from time to time.
+And now I am the COO & Co-Founder of Subitt where I manage the day-to-day operation and make sure our customers are getting the full experience. And, I still code parts of the platform!
 
 🌐 Projects:
 
