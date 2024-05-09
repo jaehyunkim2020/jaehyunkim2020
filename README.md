@@ -27,6 +27,19 @@ I enjoy tech projects so have done many personal and team projects using technol
 * SQL, MySQL
 * Bash, Linux
 
+
+Using these technologies I've created:
+
+* A Python script to make listening to music more acessible (who wants to pay a monthly subscription or listen to ads every other song? 😫)
+* Full stack web applications
+* A social mobile app (still in the works 😉)
+* Natural Language Processor
+
+I've also learned
+
+* Go (Golang)
+* C#
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -46,18 +59,6 @@ I enjoy tech projects so have done many personal and team projects using technol
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-Using these technologies I've created:
-
-* A Python script to make listening to music more acessible (who wants to pay a monthly subscription or listen to ads every other song? 😫)
-* Full stack web applications
-* A social mobile app (still in the works 😉)
-* Natural Language Processor
-
-I've also learned
-
-* Go (Golang)
-* C#
 
 🌟 Goals:
 
