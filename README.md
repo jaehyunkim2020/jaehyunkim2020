@@ -18,11 +18,14 @@ And now I am the COO & Co-Founder of Subitt where I manage the day-to-day operat
 
 I enjoy tech projects so have done many personal and team projects using technologies including
 
-* JavaScript (React.js, Next.js, Node.js, Vue.js)
+* JavaScript (React.js, Next.js, Node.js, Vue.js, jQuery)
+* TypeScript
 * Python (Django)
 * CSS (SCSS, Bootstrap, Tailwind)
 * HTML (Of course 🙄)
 * PHP
+* SQL, MySQL
+* Bash, Linux
 
 Using these technologies I've created:
 
@@ -30,6 +33,11 @@ Using these technologies I've created:
 * Full stack web applications
 * A social mobile app (still in the works 😉)
 * Natural Language Processor
+
+I've also learned
+
+* Go (Golang)
+* C#
 
 🌟 Goals:
 
