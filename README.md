@@ -6,11 +6,11 @@ My name is Jae and I'm a Computer Science student. I like building things and wo
 💻 Professional Journey:
 
 Throughout my life, I've dipped my toes in a variety of fields including
-• Accounting
-• Marketing & Sales
-• Business Mangement
-• HR
-• Web Development
+* Accounting
+* Marketing & Sales
+* Business Mangement
+* HR
+* Web Development
 
 And now I am the COO & Co-Founder of Subitt where I manage the day-to-day operation and make sure our customers are getting the full experience. But, I still code from time to time.
 
@@ -18,18 +18,18 @@ And now I am the COO & Co-Founder of Subitt where I manage the day-to-day operat
 
 I enjoy tech projects so have done many personal and team projects using technologies including
 
-• JavaScript (React.js, Next.js, Node.js, Vue.js)
-• Python (Django)
-• CSS (SCSS, Bootstrap, Tailwind)
-• HTML (Of course 🙄)
-• PHP
+* JavaScript (React.js, Next.js, Node.js, Vue.js)
+* Python (Django)
+* CSS (SCSS, Bootstrap, Tailwind)
+* HTML (Of course 🙄)
+* PHP
 
 Using these technologies I've created:
 
-• A Python script to make listening to music more acessible (who wants to pay a monthly subscription or listen to ads every other song? 😫)
-• Full stack web applications
-• A social mobile app (still in the works 😉)
-• Natural Language Processor
+* A Python script to make listening to music more acessible (who wants to pay a monthly subscription or listen to ads every other song? 😫)
+* Full stack web applications
+* A social mobile app (still in the works 😉)
+* Natural Language Processor
 
 🌟 Goals:
 
