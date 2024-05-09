@@ -8,7 +8,7 @@ My name is Jae and I'm a Computer Science student. I like building things and wo
 Throughout my life, I've dipped my toes in a variety of fields including
 * Accounting
 * Marketing & Sales
-* Business Mangement
+* Business Management
 * HR
 * Web Development
 
