@@ -1,15 +1,15 @@
 COO & Co-Founder at Subitt
 [Visit Subitt](https://www.subitt.io)
 
-My name is Jae and I'm a Computer Science student. I like building things and working on projects that make a difference. I want to eventually focus my time and resources on helping disadvantaged youths by providing them with more resources for success!
+My name is Jae and I enjoy building things and working on projects that make a difference. I want to eventually focus my time and resources on helping disadvantaged youths by providing them with more resources for success!
 
 💻 Professional Journey:
 
 Throughout my life, I've dipped my toes in a variety of fields including
 * Accounting
-* Marketing & Sales
+* Digital Marketing
+* Sales
 * Business Management
-* HR
 * Web Development
 
 And now I am the COO & Co-Founder of Subitt where I manage the day-to-day operation and make sure our customers are getting the full experience. And, I still code parts of the platform!
