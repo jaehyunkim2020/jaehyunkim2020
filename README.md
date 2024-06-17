@@ -32,8 +32,10 @@ Using these technologies I've created:
 
 * A Python script to make listening to music more acessible (who wants to pay a monthly subscription or listen to ads every other song? 😫)
 * Full stack web applications
-* * [Subitt](https://www.subitt.io), an online platform for centralizing all things subscriptions.
-  * 
+  * [Subitt](https://www.subitt.io), an online platform for centralizing all things subscriptions.
+  * [Game Comparison Application](https://compare-game-stats.vercel.app/), to compare your game stats between friends to see who is better.
+  * [FindMyProfessors](https://findmyprofessors.com/), to facilitate better relationship-building between students and professors.
+  * [FindMyHousings](https://www.findmyhousings.com/), to make it easier to find housing in Rexburg, Idaho where the housing market is not very well organized.
 * A social mobile app (still in the works 😉)
 * Natural Language Processor
 
