@@ -73,4 +73,4 @@ The only reason why I am where I am today, (which I still feel isn't much), is b
 
 📫 Get in Touch:
 
-Meanwhile, if you have cool project ideas or want to work with me on some ideas I have saved up, connect with me on [LinkedIn](linkedin.com/in/jaehyunkim2020/) or via email at jaehyunkim2020@gmail.com
+Meanwhile, if you have cool project ideas or want to work with me on some ideas I have saved up, connect with me on [LinkedIn](https://www.linkedin.com/in/jaehyunkim2020/) or via email at jaehyunkim2020@gmail.com
