@@ -10,7 +10,7 @@ I enjoy tech projects so have done many personal and team projects using technol
 * CSS (SCSS, Bootstrap, Tailwind)
 * HTML (Of course 🙄)
 * PHP
-* SQL, MySQL
+* SQL, MySQL, PostgreSQL (Prisma)
 * Bash, Linux
 
 
