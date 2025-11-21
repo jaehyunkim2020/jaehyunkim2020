@@ -16,7 +16,7 @@ I enjoy tech projects so have done many personal and team projects using technol
 
 Using these technologies I've created:
 
-* A Python script to make listening to music more acessible (who wants to pay a monthly subscription or listen to ads every other song? 😫)
+* A Python script to make listening to music more acessible (who wants to pay a monthly subscription or listen to ads every other song?)
 * Full stack web applications
   * [Subitt](https://www.subitt.io), an online platform for centralizing all things subscriptions.
   * [Game Comparison Application](https://compare-game-stats.vercel.app/), to compare your game stats between friends to see who is better.
