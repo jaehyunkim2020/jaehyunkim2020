@@ -1,20 +1,4 @@
-My name is Jae and I enjoy building things and working on projects that make a difference. I want to eventually focus my time and resources on helping disadvantaged youths by providing them with more resources for success!
-
-🌐 Projects:
-
-I enjoy tech projects so have done many personal and team projects using technologies including
-
-* JavaScript (React.js, Next.js, Node.js, Vue.js, jQuery)
-* TypeScript
-* Python (Django)
-* CSS (SCSS, Bootstrap, Tailwind)
-* HTML (Of course 🙄)
-* PHP
-* SQL, MySQL, PostgreSQL (Prisma)
-* Bash, Linux
-
-
-Using these technologies I've created:
+My name is Jae and I enjoy building things and working on projects that make a difference. I want to eventually focus my time and resources on helping disadvantaged youths by providing them with more resources for success, just like my mentors did when I was a youth.
 
 * A Python script to make listening to music more acessible (who wants to pay a monthly subscription or listen to ads every other song?)
 * Full stack web applications
@@ -24,11 +8,6 @@ Using these technologies I've created:
   * [FindMyHousings](https://www.findmyhousings.com/), to make it easier to find housing in Rexburg, Idaho where the housing market is not very well organized.
 * A social mobile app (still in the works 😉)
 * Natural Language Processor
-
-I've also learned
-
-* Go (Golang)
-* C#
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -51,12 +30,3 @@ I've also learned
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-
-🌟 Goals:
-
-The only reason why I am where I am today, (which I still feel isn't much), is because of the opportunities and resources given by selfless mentors and leaders. I want to get to a place where I can provide similar help to youths who otherwise might not be able to get those resources. That's later down the road though.
-
-📫 Get in Touch:
-
-Meanwhile, if you have cool project ideas or want to work with me on some ideas I have saved up, connect with me on [LinkedIn](https://www.linkedin.com/in/jaehyunkim2020/) or via email at jaehyunkim2020@gmail.com
