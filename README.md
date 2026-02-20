@@ -1,7 +1,5 @@
-My name is Jae and I enjoy building things and working on projects that make a difference. I want to eventually focus my time and resources on helping disadvantaged youths by providing them with more resources for success, just like my mentors did when I was a youth.
-
-* [YTPlaylistConverter](https://github.com/jaehyunkim2020/YTPlaylistConverter) A Python script to make listening to music more acessible (who wants to pay a monthly subscription or listen to ads every other song?)
-* Full stack web applications
+* [YTPlaylistConverter](https://github.com/jaehyunkim2020/YTPlaylistConverter) A Python script to make listening to music more acessible
+* web apps
   * [Subitt](https://www.subitt.io), an online platform for centralizing all things subscriptions.
   * [Game Comparison Application](https://compare-game-stats.vercel.app/), to compare your game stats between friends to see who is better.
   * [FindMyProfessors](https://findmyprofessors.com/), to facilitate better relationship-building between students and professors.
